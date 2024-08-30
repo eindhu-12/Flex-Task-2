@@ -1,0 +1,50 @@
+
+.div1{
+    width: 50%;
+    margin: 10% 25%;
+    background-color: rgb(250, 214, 219);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px wheat;
+}
+span{
+    color: rgb(84, 84, 227);
+    font-size: large;
+    
+}
+.sp1{
+    float: inline-end;
+    margin-right: 15px;
+}
+.div2{
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    margin: 0;
+    justify-content:space-between;
+    
+}
+.d{
+    margin: 0;
+   padding-right: 20px;
+   display: inline-block;
+}
+img{
+    width: 80px;
+    border-radius: 50%;
+}
+.inside{
+    padding-left: 10px;
+    display: inline-block;
+    vertical-align: 25px;
+}
+.p1{
+    margin: 0;
+    
+}
+.p2{
+    margin: 0;
+    opacity: 0.6;
+
+}
